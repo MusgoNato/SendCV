@@ -39,7 +39,7 @@ cd sendcv
 python -m venv venv
 venv\Scripts\activate
 ```
--Instale as dependências
+Instale as dependências
 ```
 pip install -r requirements.txt
 ```
@@ -51,6 +51,8 @@ LINKEDIN=link do seu linkedin
 GITHUB=link do seu github
 PHONE=Seu numero de telefone para contato
 ```
+*Obs: Renomeie o arquivo .example.env para .env e adicione suas informações a ele*
+
 #### Adicione seu currículo na pasta raiz
 Nomeie o arquivo como: `curriculum.pdf`
 
